@@ -1,3 +1,6 @@
+# import complex math module
+import cmath
+
 # This program adds two numbers
 
 num1 = 1.5
@@ -11,9 +14,6 @@ print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
 
 
 # Solve the quadratic equation ax**2 + bx + c = 0
-
-# import complex math module
-import cmath
 
 a = 1
 b = 5
