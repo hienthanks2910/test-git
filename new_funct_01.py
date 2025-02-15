@@ -1,4 +1,5 @@
-def new_funct_01()
+def new_funct_01(name):
+    print(f"This is", name)
     
-print("Hello World!")
+new_funct_01("Alice")
     
